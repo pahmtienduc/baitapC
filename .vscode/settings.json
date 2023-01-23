@@ -1,0 +1,36 @@
+{
+    "background.enabled": true,
+    "background.loop": false,
+    "background.useDefault": false,
+    "background.useFront": false,
+    "background.style": {
+          "content": "''",
+          "pointer-events": "none",
+          "position": "absolute",
+          "z-index": "99999",
+          "width": "100%",
+          "height": "100%",
+          "margin-left":"0%",
+          "background-position": "center",
+          "background-size": "cover",
+          "background-repeat": "no-repeat",
+          "opacity": 0.4
+    },
+    "background.customImages": [
+        
+
+        "https://images.hdqwalls.com/wallpapers/son-goku-dragon-ball-super-dark-5k-zd.jpg",
+    ]
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.configureOnOpen": true,
+    "background.useDefault": false,
+    "background.useFront": false,
+    "background.fullscreen": {
+
+        "image": "",
+        "opacity": 0.91,
+        "size": "cover",
+        "position": "center",
+        "interval": 0
+    }
+}
